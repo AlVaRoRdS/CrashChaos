@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.3",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -9,13 +9,6 @@
 			"Enabled": true,
 			"TargetAllowList": [
 				"Editor"
-			]
-		},
-		{
-			"Name": "GameViewportLocalMultiplayer",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
 			]
 		}
 	]
